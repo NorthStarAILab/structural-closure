@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: Structural Closure: An Execution Architecture that Seals Structural Blanks and Unifies the Decision Path in LLM Agents
+type: article
+authors:
+  - family-names: Lee
+    given-names: Chungsam
+    affiliation: Independent Researcher
+repository-code: https://github.com/NorthStarAILab/structural-closure
+abstract: Structural Closure proposes an execution architecture that seals structural blanks in large language model agents and enforces a single admissible decision path by separating measurement layers from decision authority.
+keywords:
+  - Structural Closure
+  - execution architecture
+  - LLM agents
+  - predictive consistency
+  - decision path
+license: CC-BY-NC-4.0
