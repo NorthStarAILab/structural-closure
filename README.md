@@ -1,6 +1,10 @@
 Structural Closure
 구조적 닫힘
+OSF Archive (Official Record):
+https://osf.io/9sz5r/overview
 
+OSF 공식 보관 링크:
+https://osf.io/9sz5r/overview
 Parent Constitution (Upper-Level Framework)
 Two-Mode AI Execution Constitution
 https://github.com/NorthStarAILab/two-mode-ai-execution-constitution
